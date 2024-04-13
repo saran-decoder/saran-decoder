@@ -1,5 +1,5 @@
 ![Header](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
-<h1 align="center">Hi 👋, I'm Saran</h1>
+<h1 align="center">Hi 👋, I'm Saran</h1> <br>
 
 I work as a developer. I enjoy designing clean web applications with intuitive features. I appreciate the process of making ideas a reality through creative solutions. I am always eager to learn new skills, techniques, and concepts. I've worked on several single full stack projects and began learning programming at the age of 15.
 
@@ -9,13 +9,13 @@ I work as a developer. I enjoy designing clean web applications with intuitive f
 
 - 🌱 I’m currently learning **React JS, Python, Express JS, Angular JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saran-decoder](https://github.com/saran-decoder)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/saran-decoder">Click here</a>
 
-- 📫 How to reach me **saran29032004@gmail.com**
+- 📫 How to reach me <a href="mailto:saran29032004@gmail.com">Click here</a>
   
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
-- 📄 Know about my experiences [https://saran.selfmade.one](https://saran.selfmade.one)
+- 📄 Know about my experiences <a href="https://saran.selfmade.one">Click here</a>
 <br>
 
 <h3 align="left">Connect with me:</h3>
