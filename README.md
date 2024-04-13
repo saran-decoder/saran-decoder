@@ -7,7 +7,7 @@ I work as a developer. I enjoy designing clean web applications with intuitive f
 
 <img align="right" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" />
 
-- 🌱 I’m currently learning **React JS, Python, Express JS, Angular JS**
+- 🌱 I’m currently learning **React JS, Express JS, Angular JS**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/saran-decoder">Click here</a>
 
@@ -30,6 +30,6 @@ I work as a developer. I enjoy designing clean web applications with intuitive f
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saran-decoder&show_icons=true&locale=en&layout=compact" alt="saran-decoder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saran-decoder&" alt="saran-decoder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saran-decoder&show_icons=true&locale=en" alt="saran-decoder" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saran-decoder&show_icons=true&locale=en" alt="saran-decoder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saran-decoder&" alt="saran-decoder" /></p>
