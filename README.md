@@ -3,6 +3,8 @@
 
 I work as a developer. I enjoy designing clean web applications with intuitive features. I appreciate the process of making ideas a reality through creative solutions. I am always eager to learn new skills, techniques, and concepts. I've worked on several single full stack projects and began learning programming at the age of 15.
 
+<br>
+
 <img align="right" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" />
 
 - 🌱 I’m currently learning **React JS, Express JS, Angular JS**
